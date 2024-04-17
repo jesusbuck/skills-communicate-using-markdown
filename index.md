@@ -14,3 +14,10 @@ _Exervice 3: Adding code examples_
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+Here are a list of tasks to complete:
+- [x] Buy groceries
+- [ ] Go to gym
+- [x] Get shit done
+
+- [ ] AOB
